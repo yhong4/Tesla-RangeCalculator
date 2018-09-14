@@ -1,4 +1,4 @@
-# PersonalWebsite
+# Tesla Range Calculator
 
 
 ## Technology stack
