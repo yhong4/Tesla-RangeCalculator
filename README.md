@@ -11,7 +11,7 @@ Chrome
 No
 
 ## Project URL
-[Link](https://tesla-range-calculator-hy.herokuapp.com/)
+[APP Link](https://tesla-range-calculator-hy.herokuapp.com/)
 
 ## Install in localhost
 1. Install npm
